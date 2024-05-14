@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studying Information Systems at University of BahirDar.
+- 💼 &nbsp; Working as a FrontEnd Developer at Kaleo solutions Private Limited.
+- 🌱 &nbsp; Learning more about databases, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -51,10 +51,8 @@
 
 <p align="center">
 <a href="https://kaleo-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kaleo.com-blue?style=flat-square&logo=google%20chrome&logoColor=blue"></a>
-<a href="https://www.linkedin.com/in/kalebtsegaye1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kaleb%20tsegaye-blue?style=flat-square&logo=linkedin
-"></a>
-<a href="mailto:kalebo2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalebo2023%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=red
-"></a>
+<a href="https://www.linkedin.com/in/kalebtsegaye1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kaleb%20tsegaye-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:kalebo2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalebo2023%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=red"></a>
 </p>
 
 ⭐️ From [kaleb110](https://github.com/kaleb110)
