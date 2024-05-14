@@ -50,10 +50,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kaleo-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kaleo.com-blue?style=flat-square&logo=google%20chrome&logoColor=blue
+<a href="https://kaleo-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kaleo.com-blue?style=flat-square&logo=google%20chrome&logoColor=blue"></a>
+<a href="https://www.linkedin.com/in/kalebtsegaye1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kaleb%20tsegaye-blue?style=flat-square&logo=linkedin
 "></a>
-<a href="https://www.linkedin.com/in/kalebtsegaye1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:kalebo2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:kalebo2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalebo2023%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=red
+"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [kaleb110](https://github.com/kaleb110)
