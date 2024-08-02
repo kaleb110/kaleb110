@@ -1,4 +1,5 @@
-<h2> Hey there! I'm Kaleb.</h2>
+## Hi, there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width=40>
+![profile views](https://komarev.com/ghpvc/?username=kaleb110)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -51,5 +52,6 @@
 <a href="https://www.linkedin.com/in/kalebtsegaye1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kaleb%20tsegaye-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kalebo2023@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalebo2023%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=red"></a>
 </p>
+
 
 ⭐️ From [kaleb110](https://github.com/kaleb110)
