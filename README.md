@@ -1,5 +1,4 @@
 ## Hi, there <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width=40>
-![profile views](https://komarev.com/ghpvc/?username=kaleb110)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
