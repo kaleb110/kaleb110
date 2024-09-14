@@ -54,3 +54,5 @@
 
 
 ⭐️ From [kaleb110](https://github.com/kaleb110)
+
+[![](https://visitcount.itsvg.in/api?id=kaleb110&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
