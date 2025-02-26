@@ -20,6 +20,8 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@kalebo2023" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleb110&show_icons=true&locale=en" alt="kaleb110" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleb110&" alt="kaleb110" /></p>
+<!-- GitHub Streak -->
+<h2>🔥 GitHub Streak</h2>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaleb110" alt="Kaleb's GitHub Streak" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleb110&show_icons=true&locale=en&layout=compact" alt="kaleb110" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleb110" alt="kaleb110" /></a></p>
