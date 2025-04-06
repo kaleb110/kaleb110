@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack apps<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with working on a project<br>🌱 I’m currently learning Backend development<br>💬 Ask me about anything related to tech<br>⚡ Fun fact failing is the starting point to learning
+🔭 I’m currently working on Full stack apps<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with working on a project<br>🌱 I’m currently learning Backend development<br>💬 Ask me about anything related to tech<br>⚡ Fun fact: failing is the starting point of learning
 
 
 ## 🌐 Socials:
